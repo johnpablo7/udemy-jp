@@ -1,6 +1,6 @@
 // Objetos
 const product = {
-  firstName: 'Tablet',
+  name: 'Tablet',
   price: 300,
   available: false,
 };
@@ -13,8 +13,8 @@ const product = {
 // console.log(product.price);
 
 // Destructuring
-// const { firstName, price, available } = product;
-// console.log(firstName);
+// const { name, price, available } = product;
+// console.log(name);
 // console.log(price);
 // console.log(available);
 
